@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mysha-code
-- 👀 I’m interested in Coding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on My work
+- 💞️ I’m looking to collaborate on my work
 
 <!---
 Mysha-code/Mysha-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
